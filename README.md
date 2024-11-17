@@ -1,6 +1,6 @@
 # ETHGlobal Bangkok - CrossChainPort 🚀
 
-A decentralized cross-chain liquidity platform powered by Chainlink CCIP. Say goodbye to burns, wraps, and intermediaries—swap assets seamlessly across chains with unmatched security and simplicity!
+A decentralized cross-chain liquidity platform powered by Chainlink CCIP and Polygon AggLayer. Say goodbye to burns, wraps, and intermediaries—swap assets seamlessly across chains with unmatched security and simplicity!
 
 ## Tech Stack 🧰
 
